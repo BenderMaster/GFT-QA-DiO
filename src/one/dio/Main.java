@@ -38,8 +38,9 @@ public class Main {
 
         System.out.println("Exercício áreas:");
         Quadrilatero.area(2);
-        Quadrilatero.area(5,3);
+        Quadrilatero.area(5d,3d);
         Quadrilatero.area(4,5,3);
+        Quadrilatero.area(4f,6f);
 
     }
 
