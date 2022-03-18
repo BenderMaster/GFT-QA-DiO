@@ -1,9 +1,17 @@
-package one.dio.aula1;
+package one.dio;
+
+import one.dio.aula1.Calculadora;
+import one.dio.aula1.Emprestimo;
+import one.dio.aula1.Mensagem;
+import one.dio.aula2.Quadrilatero;
 
 public class Main {
 
     public static void main(String[] args) {
 
+        //Exercício da aula 1------------------
+
+        /*
         //Calculadora
         System.out.println("Exercicio calculadora:");
         Calculadora.soma(3,4);
@@ -23,6 +31,15 @@ public class Main {
         Emprestimo.calcular(1000,Emprestimo.getDuasParcelas());
         Emprestimo.calcular(1000,3);
         Emprestimo.calcular(1000,5);
+        */
+
+        //Exercício aula 2---------------------
+
+
+        System.out.println("Exercício áreas:");
+        Quadrilatero.area(2);
+        Quadrilatero.area(5,3);
+        Quadrilatero.area(4,5,3);
 
     }
 
