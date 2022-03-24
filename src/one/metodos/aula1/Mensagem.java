@@ -1,4 +1,4 @@
-package one.dio.aula1;
+package one.metodos.aula1;
 
 public class Mensagem {
 

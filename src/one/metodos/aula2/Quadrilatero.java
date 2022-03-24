@@ -1,4 +1,4 @@
-package one.dio.aula2;
+package one.metodos.aula2;
 
 public class Quadrilatero {
 

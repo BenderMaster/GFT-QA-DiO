@@ -1,10 +1,7 @@
-package one.dio;
+package one.metodos;
 
-import one.dio.aula1.Calculadora;
-import one.dio.aula1.Emprestimo;
-import one.dio.aula1.Mensagem;
-import one.dio.aula2.Quadrilatero;
-import one.dio.aula3.QuadrilateroReturn;
+import one.metodos.aula2.Quadrilatero;
+import one.metodos.aula3.QuadrilateroReturn;
 
 public class Main {
 
