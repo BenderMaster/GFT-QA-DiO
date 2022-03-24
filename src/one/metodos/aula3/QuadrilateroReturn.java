@@ -17,9 +17,5 @@ public class QuadrilateroReturn {
         return  ((baseMaior + baseMenor) * altura) / 2;
     }
 
-    public static double area(float diagonal1, float diagonal2){
-
-
-    }
 
 }
